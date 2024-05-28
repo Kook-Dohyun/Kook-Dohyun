@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔌Connection
+### 🔌 Connection
 <p align="left">
  <h4 align="left">Social</h4>
  <span><a href="https://t.me/kookdh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"></a></span>
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
  <span><a href="mailto:rnrtmdtn1213@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=falt-square&logo=microsoft-outlook&logoColor=white"/></a></span>
 </p>
 
+### 🧰 Stacks
 - Languages :  
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
 - Designs :  
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-sqaure&logo=Adobe%20XD&logoColor=#FF61F6)
+---
 
 <p align="left"> 
 <a href="https://github.com/Kook-Dohyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kook-Dohyun&langs_count=4&theme=cobaltlayout=compact&theme=cobalt&hide_border=true&bg_color=00000000" /></a> 
