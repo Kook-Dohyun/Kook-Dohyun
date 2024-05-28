@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ### 🔌Connection
 <p align="left">
-  <span><a href="https://t.me/kookdh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"></a></span>
-  <span><a href="mailto:tmdtnghghgh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tmdtnghghgh@gmail.com"/></a></span>  
+ message: <span><a href="https://t.me/kookdh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"></a></span>
+ emails: <span><a href="mailto:tmdtnghghgh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tmdtnghghgh@gmail.com"/></a></span>  
   <span><a href="mailto:rnrtmdtn1213@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=falt-square&logo=microsoft-outlook&logoColor=white"/></a></span>
 </p>
 
