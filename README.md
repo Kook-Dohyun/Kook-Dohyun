@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kook-Dohyun&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kook-Dohyun&hide=contribs&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=False,prs)
 
 
 <p align="left">
