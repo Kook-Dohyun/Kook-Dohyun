@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###🔌 Connection
+### 🔌 Connection
 <p align="left">
  <h4 align="left">Social</h4>
  <span><a href="https://t.me/kookdh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"></a></span>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <span><a href="mailto:rnrtmdtn1213@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=falt-square&logo=microsoft-outlook&logoColor=white"/></a></span>
 </p>
 
-###🧰 Stacks
+### 🧰 Stacks
 - Languages :  
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
