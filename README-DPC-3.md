@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 ### 🔌Connection
 <p align="left">
- <h4 align="left">Social</h4>
+ <h4 align="left">Messange \& Social</h4>
  <span><a href="https://t.me/kookdh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"></a></span>
  <span><a href="https://raw.githubusercontent.com/Kook-Dohyun/Kook-Dohyun/main/assets/kakao-qr.png"><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=flat-squeare&logo=kakaotalk&logoColor=000000"></a></span>
- <span><a href="https://linkedin.com/in/Kook-Dohyun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a></span>
+ <span><a href="https://t.me/kookdh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a></span>
  <h4 align="left">Email</h4>
  <span><a href="mailto:tmdtnghghgh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tmdtnghghgh@gmail.com"/></a></span>  
- <span><a href="mailto:rnrtmdtn1213@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=falt-square&logo=microsoft-outlook&logoColor=white"/></a></span>
+  <span><a href="mailto:rnrtmdtn1213@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=falt-square&logo=microsoft-outlook&logoColor=white"/></a></span>
 </p>
 
 - Languages :  
