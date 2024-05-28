@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 - FrameWorks:  
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
  
-| <a href="https://github.com/Kook-Dohyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kook-Dohyun&show_icons=true&theme=cobalt&hide_issues=true&hide_border=true&bg_color=00000000" alt="Kook-Dohyun's github stats" /></a> | <a href="https://github.com/Kook-Dohyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kook-Dohyun&&theme=cobaltlayout=compact&theme=cobalt&hide_border=true" /></a> |
+| <a href="https://github.com/Kook-Dohyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kook-Dohyun&show_icons=true&theme=cobalt&hide_issues=true&hide_border=true&bg_color=00000000" alt="Kook-Dohyun's github stats" /></a> | 
+<a href="https://github.com/Kook-Dohyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kook-Dohyun&&theme=cobaltlayout=compact&theme=cobalt&hide_border=true" /></a> |
 | ------------- | ------------- |
