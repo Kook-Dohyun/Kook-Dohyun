@@ -1,6 +1,6 @@
-## Hi there 👋
 
 <!--
+## Hi there 👋
 **Kook-Dohyun/Kook-Dohyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+<a href="kookdh.t.me">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"></a>
+</p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kook-Dohyun&show_icons=true&theme=cobalt&hide_issues=True&hide_border=True&bg_color=00000000)
  
