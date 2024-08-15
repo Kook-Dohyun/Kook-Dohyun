@@ -51,9 +51,6 @@ Here are some ideas to get you started:
 - FrameWorks :  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&logo=Flutter&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white)
-- Designs :  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&logo=adobe%20photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?&logo=Adobe%20XD&logoColor=#FF61F6)
 - OS:  
 ![Android](https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white)
